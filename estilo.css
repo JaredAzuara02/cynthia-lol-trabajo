@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5 ;
+    text-align: center;
+}
+.contenedor{
+    padding: auto;
+    background-color: #94D9C6;
+    display: flex;
+    position: left;
+    justify-content: center;
+    
+}
+.btn1{
+    background-color: #94D9C6;
+    text-align: center;
+    padding: 20px 40px;
+    color: #E5E5E5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 20px;
+    margin-right: 30px;
+    display: inline-block;
+    text-decoration: none;
+}
+.btn1:hover{
+    background-color: rgb(18, 125, 27);
+}
+.titulo{
+ text-align: center;
+ font-family:'Times New Roman', Times, serif ;
+ font-size: 60px;
+ text-transform: uppercase;
+ color:#1E2;
+
+}
